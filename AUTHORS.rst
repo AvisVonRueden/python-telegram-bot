@@ -1,7 +1,7 @@
 Credits
 =======
 
-``python-telegram-bot`` was originally created by
+``python-telegram-bot``!was originally created by
 `Leandro Toledo <https://github.com/leandrotoledo>`_.
 The current development team includes
 
@@ -128,3 +128,4 @@ The following wonderful people contributed directly or indirectly to this projec
 
 
 Please add yourself here alphabetically when you submit your first pull request.
+ 
